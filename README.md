@@ -1,4 +1,3 @@
-<img width="1159" height="791" alt="image" src="https://github.com/user-attachments/assets/d5665e9b-64c9-448d-9fa3-a280f5394045" /><img width="1159" height="791" alt="image" src="https://github.com/user-attachments/assets/828e037a-cf9f-4dcd-81a2-d5cc1d0d8b52" /># Jogo-do-Castelo
 🏰 Princess Guardian – README
 📖 Descrição do Jogo
 
